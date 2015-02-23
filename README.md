@@ -8,6 +8,4 @@ Depending on the case from various manufacturers, the microSD card adapter may n
 
 # License
 
-Released under Creative Commons Attribution and Share Alike License by [J.Rodrigo](http://www.jrodrigo.net)
-
-[http://creativecommons.org/licenses/by-sa/2.5/](http://creativecommons.org/licenses/by-sa/2.5/)
+Released under [Creative Commons Attribution and Share Alike License](http://creativecommons.org/licenses/by-sa/4.0/) by [J.Rodrigo](http://www.jrodrigo.net)
